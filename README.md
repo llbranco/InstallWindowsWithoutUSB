@@ -19,7 +19,8 @@ Steps
 
 1. Download iso that you want to install.
 2. Open Disk Managment (win + r -> diskmgmt.msc).
-3. Select Partition that you want to shrink, right click on it and select “Shrink Volume”. 
+3. Select Partition that you want to shrink, right click on it and select “Shrink Volume”.
+or use microrit partition magic manager instead - https://macrorit.com/partition-magic-manager/partition-expert-download.html
 ![Shrink Volume](https://i.imgur.com/DV9if1i.png)
 4. Type how much space you want to allocate for your future Windows partition (At Least 30gb) and click shrink.
 ![Allocation](https://i.imgur.com/SsRkmXv.png)
